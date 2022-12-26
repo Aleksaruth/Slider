@@ -174,7 +174,7 @@ let sliderOptions = {
   dots: true,
   titles: true,
   autoplay: true,
-  autoplayInterval: 5000
+  autoplayInterval: 6000
 };
 
 document.addEventListener("DOMContentLoaded", function() {
